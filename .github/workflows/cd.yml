@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/zhtv/my-fastapi-test:latest
+          tags: ghcr.io/zhtv/my-fastapi-app:latest
